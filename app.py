@@ -2,7 +2,7 @@
 import google.generativeai as genai
 
 # Substitua pelo seu API key real
-GOOGLE_API_KEY = "AIzaSyCdzNLVMr2fWE0PexOwuOUT9iP7gOsDHvw"
+GOOGLE_API_KEY = "digite sua API aqui"
 
 def informative_research(prompt):
     """
